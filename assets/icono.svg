@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 50">
+  <!-- Elemento "N" estilizada -->
+  <path d="M0,0 L15,0 L15,50 L0,50 Z M15,0 L45,50 L45,0 Z M45,0 L60,0 L60,50 L45,50 Z" fill="#4353FF"/>
+  
+  <!-- Elementos de código (barras diagonales) -->
+  <path d="M22,15 L30,25 M22,30 L30,40" stroke="#333333" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Elemento de carrito de compras estilizado -->
+  <circle cx="38" cy="15" r="5" fill="none" stroke="#333333" stroke-width="2"/>
+</svg>
