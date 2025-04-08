@@ -71,13 +71,13 @@
   <g transform="translate(230, 590)">
     <circle cx="15" cy="15" r="15" fill="#4353FF" />
     <path d="M8,15 L14,21 L22,9" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-    <text x="50" y="21" font-family="Arial, sans-serif" font-size="20" fill="#333333">Configuración de tienda Shopify básica</text>
+    <text x="50" y="21" font-family="Arial, sans-serif" font-size="20" fill="#333333">Configuración de tienda Shopify</text>
   </g>
   
   <g transform="translate(230, 630)">
     <circle cx="15" cy="15" r="15" fill="#4353FF" />
     <path d="M8,15 L14,21 L22,9" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-    <text x="50" y="21" font-family="Arial, sans-serif" font-size="20" fill="#333333">Tema prediseñado personalizado</text>
+    <text x="50" y="21" font-family="Arial, sans-serif" font-size="20" fill="#333333">Tema estándar</text>
   </g>
   
   <g transform="translate(230, 670)">
@@ -89,27 +89,20 @@
   <g transform="translate(230, 710)">
     <circle cx="15" cy="15" r="15" fill="#4353FF" />
     <path d="M8,15 L14,21 L22,9" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-    <text x="50" y="21" font-family="Arial, sans-serif" font-size="20" fill="#333333">Métodos de pago y envío</text>
+    <text x="50" y="21" font-family="Arial, sans-serif" font-size="20" fill="#333333">Pasarela de pago (Pagopar)</text>
   </g>
-  
-  <g transform="translate(230, 750)">
-    <circle cx="15" cy="15" r="15" fill="#4353FF" />
-    <path d="M8,15 L14,21 L22,9" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-    <text x="50" y="21" font-family="Arial, sans-serif" font-size="20" fill="#333333">Optimización básica SEO</text>
-  </g>
-  
+    
   <g transform="translate(230, 790)">
     <circle cx="15" cy="15" r="15" fill="#4353FF" />
     <path d="M8,15 L14,21 L22,9" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-    <text x="50" y="21" font-family="Arial, sans-serif" font-size="20" fill="#333333">Tutorial de uso (1 hora)</text>
+    <text x="50" y="21" font-family="Arial, sans-serif" font-size="20" fill="#333333">Tutorial de uso</text>
   </g>
-  
   <g transform="translate(230, 830)">
     <circle cx="15" cy="15" r="15" fill="#4353FF" />
     <path d="M8,15 L14,21 L22,9" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" />
     <text x="50" y="21" font-family="Arial, sans-serif" font-size="20" fill="#333333">Soporte por WhatsApp (10 días)</text>
   </g>
-  
+
   <!-- Call to action -->
 
   
